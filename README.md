@@ -17,7 +17,7 @@
 ## 🚀 安装
 
 ```bash
-go get github.com/pudongping/zero-doraemon
+go get github.com/pudongping/zero-doraemon@latest
 ```
 
 > **⚠️ 注意：注意：本项目依赖 Go 1.25+ 及 go-zero 框架**
